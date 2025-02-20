@@ -1,7 +1,17 @@
-## About me
+## 👋 Hi!
 
-Santiago Gordo Diaz - Flutter developer 👨‍🦱💻📲💡
+### Santiago Gordo Diaz - Flutter developer 👨‍🦱💻📲💡
+
+I'm passionate about mobile development with Flutter, creating intuitive and seamless experiences on Android and iOS. I love turning ideas into functional and optimized applications.  
 
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=santi-gd"/>
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santi-gd&layout=compact"/>
+
+### 📊 Stats  
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=santi-gd"/>  
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santi-gd&layout=compact"/>  
+
+
+
+### 🌐 Let's Connect!  
+
+- [LinkedIn](https://www.linkedin.com/in/santiago-gordo-diaz-760b7a101/)  
