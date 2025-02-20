@@ -4,7 +4,11 @@
 
 I'm passionate about mobile development with Flutter, creating intuitive and seamless experiences on Android and iOS. I love turning ideas into functional and optimized applications.  
 
+### 🌐 Follow!  
 
+- [LinkedIn](https://www.linkedin.com/in/santiago-gordo-diaz-760b7a101/)
+
+ - ![](https://komarev.com/ghpvc/?username=santi-gd)
 
 ### 📊 Stats  
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=santi-gd"/>  
@@ -12,6 +16,6 @@ I'm passionate about mobile development with Flutter, creating intuitive and sea
 
 
 
-### 🌐 Let's Connect!  
 
-- [LinkedIn](https://www.linkedin.com/in/santiago-gordo-diaz-760b7a101/)  
+
+
