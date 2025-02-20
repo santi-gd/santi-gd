@@ -1,8 +1,7 @@
 ## 👋 Hi!
 
-### Santiago Gordo Diaz - Flutter developer 👨‍🦱💻📲💡
+### Santiago Gordo Diaz - Flutter developer 💻📲
 
-I'm passionate about mobile development with Flutter, creating intuitive and seamless experiences on Android and iOS. I love turning ideas into functional and optimized applications.  
 
 ### 🌐 Follow!  
 
