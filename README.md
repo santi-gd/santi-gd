@@ -1,9 +1,7 @@
 ## 👋 Hi!
 
 ### Santiago Gordo Diaz - Flutter developer 💻📲
-
-
-### 🌐 Follow!  
+ 
 
 - [LinkedIn](https://www.linkedin.com/in/santiago-gordo-diaz-760b7a101/)
 
