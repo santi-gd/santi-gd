@@ -5,6 +5,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/santiago-gordo-diaz-760b7a101/)
 
+
  - ![](https://komarev.com/ghpvc/?username=santi-gd)
 
 ### 📊 Stats  
