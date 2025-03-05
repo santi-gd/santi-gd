@@ -3,7 +3,7 @@
 ### Santiago Gordo Diaz - Flutter developer 💻📲
  
 
-- [LinkedIn](www.linkedin.com/in/santi-gd/)
+- [LinkedIn](https://www.linkedin.com/in/santi-gd/)
 
 
  - ![](https://komarev.com/ghpvc/?username=santi-gd)
